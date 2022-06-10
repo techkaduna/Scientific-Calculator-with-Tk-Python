@@ -1,0 +1,119 @@
+INFO - 2022-04-07 03:04:16,239: Tried doing the sine operation
+INFO - 2022-04-07 03:06:07,486: Tried doing the sine operation
+INFO - 2022-04-07 03:07:41,937: Tried doing the sine operation
+INFO - 2022-04-07 03:14:40,728: Tried doing the sine operation
+INFO - 2022-04-07 03:15:05,495: Tried doing the sine operation
+INFO - 2022-04-07 03:17:44,413: Tried doing the sine operation
+INFO - 2022-04-07 03:18:50,515: Tried doing the sine operation
+INFO - 2022-04-07 03:20:25,638: Tried doing the sine operation
+ERROR - 2022-04-07 03:23:14,856: There was an error while doing the sine operation
+INFO - 2022-04-07 03:26:33,775: Tried doing the cosine operation
+INFO - 2022-04-07 03:26:40,886: Tried doing the cosine operation
+INFO - 2022-04-07 03:27:39,364: Tried doing the tangent operation
+INFO - 2022-04-07 03:27:47,693: Tried doing the cosine operation
+INFO - 2022-04-07 03:27:53,717: Tried doing the cosine operation
+INFO - 2022-04-07 03:28:02,802: Tried doing the tangent operation
+INFO - 2022-04-07 04:01:27,192: Tried doing the log10 operation
+INFO - 2022-04-07 04:01:46,052: Tried doing the exponential operation
+INFO - 2022-04-07 04:18:53,048: Tried doing the log10 operation
+ERROR - 2022-04-07 04:18:57,413: There was an error while doing the exponential operation
+INFO - 2022-04-07 04:19:21,916: Tried doing the log10 operation
+INFO - 2022-04-07 04:19:27,288: Tried doing the exponential operation
+INFO - 2022-04-07 04:19:38,416: Tried doing the exponential operation
+ERROR - 2022-04-07 04:25:47,466: There was an error while doing the exponential operation
+ERROR - 2022-04-07 04:25:50,053: There was an error while doing the exponential operation
+ERROR - 2022-04-07 04:25:50,829: There was an error while doing the exponential operation
+ERROR - 2022-04-07 04:25:51,188: There was an error while doing the exponential operation
+ERROR - 2022-04-07 04:25:51,347: There was an error while doing the exponential operation
+ERROR - 2022-04-07 04:25:51,491: There was an error while doing the exponential operation
+ERROR - 2022-04-07 04:25:55,582: There was an error while doing the exponential operation
+INFO - 2022-04-07 04:26:05,703: Tried doing the exponential operation
+ERROR - 2022-04-07 04:26:27,728: There was an error while doing the log10 operation
+ERROR - 2022-04-07 04:26:29,631: There was an error while doing the tangent operation
+INFO - 2022-04-07 04:28:15,524: Tried doing the log10 operation
+INFO - 2022-04-07 04:28:25,851: Tried doing the exponential operation
+INFO - 2022-04-07 04:33:17,875: Tried doing the pi operation
+INFO - 2022-04-07 04:33:28,728: Tried doing the square operation
+INFO - 2022-04-07 04:33:37,750: Tried doing the cube operation
+INFO - 2022-04-07 04:33:58,234: Tried doing the square operation
+INFO - 2022-04-07 04:34:07,031: Tried doing the radians conversion operation
+ERROR - 2022-04-07 04:41:10,608: There was an error while doing the sine inverse operation
+ERROR - 2022-04-07 04:41:15,759: There was an error while doing the sine inverse operation
+ERROR - 2022-04-07 04:44:37,062: math domain error
+INFO - 2022-04-07 04:46:24,682: Tried doing the sine operation
+INFO - 2022-04-07 04:46:41,096: Tried doing the sine operation
+INFO - 2022-04-07 04:46:49,481: Tried doing the sine inverse operation
+ERROR - 2022-04-07 04:57:57,458: math domain error
+ERROR - 2022-04-07 04:58:01,434: math domain error
+INFO - 2022-04-07 04:58:11,509: Tried doing the sine inverse operation
+INFO - 2022-04-07 04:58:30,004: Tried doing the cos-inverse operation
+INFO - 2022-04-07 04:58:40,747: Tried doing the tangent-inverse operation
+INFO - 2022-04-07 04:58:48,126: Tried doing the antiLog operation// ....operation still pending
+INFO - 2022-04-07 04:58:55,220: Tried doing the natural log operation
+INFO - 2022-04-07 04:59:05,071: Tried doing the radians conversion operation
+INFO - 2022-04-07 04:59:18,214: Tried doing the degree conversion operation
+ERROR - 2022-04-07 04:59:24,001: could not convert string to float: ''
+INFO - 2022-04-07 04:59:27,785: Tried doing the exponential operation
+INFO - 2022-04-07 04:59:34,720: Tried doing the square root operation
+INFO - 2022-04-07 04:59:36,587: Tried doing the pi operation
+INFO - 2022-04-07 05:04:07,720: Tried doing the tangent operation
+INFO - 2022-04-07 05:04:10,810: Tried doing the tangent-inverse operation
+INFO - 2022-04-07 05:04:29,298: Tried doing the pi operation
+ERROR - 2022-04-07 05:13:05,794: 'float' object cannot be interpreted as an integer
+INFO - 2022-04-07 05:13:54,301: Tried doing the factorial operation
+INFO - 2022-04-07 05:14:35,668: Tried doing the perm operation
+INFO - 2022-04-07 11:20:02,595: Tried doing the factorial operation
+INFO - 2022-04-08 10:26:12,028: Tried doing the square operation
+INFO - 2022-04-08 10:26:14,982: Tried doing the square root operation
+INFO - 2022-04-08 10:26:32,349: Tried doing the square operation
+INFO - 2022-04-08 10:26:33,292: Tried doing the square root operation
+INFO - 2022-04-08 10:26:34,462: Tried doing the square operation
+INFO - 2022-04-08 10:26:35,002: Tried doing the square root operation
+INFO - 2022-04-08 10:26:36,826: Tried doing the cube operation
+INFO - 2022-04-08 10:26:37,607: Tried doing the exponential operation
+INFO - 2022-04-08 10:26:40,764: Tried doing the radians conversion operation
+INFO - 2022-04-08 10:26:41,697: Tried doing the degree conversion operation
+INFO - 2022-04-08 10:26:42,746: Tried doing the radians conversion operation
+INFO - 2022-04-08 10:26:43,261: Tried doing the degree conversion operation
+INFO - 2022-04-08 10:26:58,797: Tried doing the factorial operation
+ERROR - 2022-04-08 10:27:00,048: factorial() argument should not exceed 2147483647
+ERROR - 2022-04-08 10:27:01,234: invalid literal for int() with base 10: ''
+ERROR - 2022-04-08 10:55:34,300: float division by zero
+ERROR - 2022-04-08 10:57:24,272: float division by zero
+ERROR - 2022-04-08 10:58:33,173: float division by zero
+ERROR - 2022-04-08 11:01:20,833: 'float' object cannot be interpreted as an integer
+INFO - 2022-04-08 11:02:26,186: Tried doing the factorial operation
+INFO - 2022-04-08 11:03:27,702: Tried doing the factorial operation
+<-- NEW VERSION STARTS HERE -->
+ERROR - 2022-04-08 17:53:40,447: bad text index "0"
+ERROR - 2022-04-08 17:53:42,653: bad text index "0"
+ERROR - 2022-04-08 17:57:52,517: Clear button error
+ERROR - 2022-04-08 17:57:53,562: Clear button error
+ERROR - 2022-04-08 18:05:37,311: Clear button error
+ERROR - 2022-04-08 18:05:38,389: Clear button error
+ERROR - 2022-04-08 18:07:43,784: Clear button error
+INFO - 2022-04-08 18:10:15,730: Tried doing the sine operation
+INFO - 2022-04-10 04:12:51,664: Tried doing the factorial operation
+INFO - 2022-04-09 01:55:20,710: Tried doing the cosine operation
+INFO - 2022-04-09 01:55:28,246: Tried doing the tangent operation
+INFO - 2022-04-09 01:55:34,781: Tried doing the cosine operation
+ERROR - 2022-04-14 16:46:54,344: There was an error while doing the sine operation
+INFO - 2022-04-14 16:46:56,617: Tried doing the sine operation
+INFO - 2022-04-14 16:50:50,901: Tried doing the cosine operation
+INFO - 2022-04-14 16:50:58,872: Tried doing the cosine operation
+ERROR - 2022-04-14 16:51:05,538: There was an error while doing the cosine operation
+INFO - 2022-04-14 16:51:08,278: Tried doing the cosine operation
+INFO - 2022-05-20 10:27:04,808: Tried doing the sine operation
+INFO - 2022-05-20 10:28:15,558: Tried doing the tangent operation
+INFO - 2022-05-24 02:23:10,607: Tried doing the tangent operation
+INFO - 2022-05-24 02:23:20,333: Tried doing the sine operation
+INFO - 2022-05-24 02:23:30,241: Tried doing the sine operation
+INFO - 2022-05-24 02:23:38,499: Tried doing the sine inverse operation
+INFO - 2022-06-05 20:08:20,393: Tried doing the cosine operation
+ERROR - 2022-06-05 20:08:44,943: math domain error
+INFO - 2022-06-05 20:08:51,834: Tried doing the cos-inverse operation
+INFO - 2022-06-05 20:08:59,429: Tried doing the sine operation
+INFO - 2022-06-05 20:09:06,429: Tried doing the sine operation
+INFO - 2022-06-05 20:09:30,699: Tried doing the factorial operation
+INFO - 2022-06-05 20:09:37,557: Tried doing the perm operation
+INFO - 2022-06-05 20:09:50,687: Tried doing the natural log operation
